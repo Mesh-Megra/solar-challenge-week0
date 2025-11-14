@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "solar_env/bin/python",
+    "python.terminal.activateEnvironment": false
+}
